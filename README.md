@@ -13,7 +13,7 @@ Data Pipeline Automation Master to WH
    Notes : 
    
    - id (Auto increment, index)
-   - table_name (Manual insert, fill with the name of the warehouse table)
+   - table_name (Manual insert, fill with the name of the warehouse table ex: transactions_activity_warehouse )
    - status (Update, auto from cron)
    - interval(Manual insert, ex: 1 minutes, 2 minutes, etc)
    - last_processing_time (Update, auto from cron)
