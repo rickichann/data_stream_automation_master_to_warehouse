@@ -22,4 +22,5 @@ Data Stream, Master to WH (Data Stream, insert & update)
    
    <img width="687" alt="image" src="https://user-images.githubusercontent.com/53082147/197949164-5cf09d54-1356-4937-b900-26a7e658d8a5.png">
 
-4. Save in cron tab, run once a minute. 
+4. Convert ipynb to py, run jupyter nbconvert --to python data_stream_master_to_wh.ipynb
+5. Save in cron tab, run once a minute. 
