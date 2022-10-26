@@ -1,5 +1,5 @@
 # data_stream_master_to_warehouse
-Data Stream, Master to WH (Data Stream, insert & update)
+Data Stream, Master to WH (Data Stream, Insert & Update)
 
 
 1. Fetch the last date in the updated_at / write_date column, and edit date in load_date_update_csv.csv using that data.
