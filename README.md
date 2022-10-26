@@ -2,7 +2,7 @@
 Data Stream, Master to WH (Data Stream, Insert & Update)
 
 
-1. Fetch the last date in the updated_at / write_date column, and edit date in load_date_update_csv.csv using that data.
+1. Fetch the last date in the updated_at / write_date column, and edit date in load_date_update.csv using that data.
 2. Database configuration
 3. Create new table "cron_activity" for activity check
 
