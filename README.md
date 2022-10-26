@@ -1,4 +1,4 @@
-# data_stream_automation_master_to_warehouse
+# data_stream_master_to_warehouse
 Data Stream, Master to WH (Data Stream, insert & update)
 
 
