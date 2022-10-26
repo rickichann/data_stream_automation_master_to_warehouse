@@ -1,5 +1,5 @@
 # data_pipeline_automation_master_to_warehouse
-Data Pipeline Automation Master to WH
+Data Pipeline Automation Master to WH (Data Stream, insert & update)
 
 
 1. Fetch the last date in the updated_at / write_date column, and edit date in load_date_update_csv.csv using that data.
